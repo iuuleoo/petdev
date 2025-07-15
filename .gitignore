@@ -1,0 +1,12 @@
+node_modules
+.vscode
+AppData/
+.cache/
+.Ds_Store
+*.Log
+dist/
+build/
+node_modules/
+node_modules/
+node_modules/
+node_modules/
