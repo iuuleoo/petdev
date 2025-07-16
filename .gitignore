@@ -1,12 +1,8 @@
+# Next.js build output
+.next
+#node modules
 node_modules
-.vscode
-AppData/
-.cache/
-.Ds_Store
+#Logs
 *.Log
-dist/
-build/
-node_modules/
-node_modules/
-node_modules/
-node_modules/
+#Ambientes
+.env
